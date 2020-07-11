@@ -11,3 +11,13 @@
   
 # Sources/Useful Links
   #### Source : https://www.kaggle.com/c/quora-question-pairs
+
+# Type of Machine Leaning Problem
+  ##### It is a binary classification problem, for a given pair of questions we need to predict if they are duplicate or not.
+  
+# Performance Metric(s)
+ * log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
+ * Binary Confusion Matrix
+ 
+# Train and Test Construction
+  ##### We build train and test by randomly splitting in the ratio of 70:30 or 80:20 whatever we choose as we have sufficient points to work with.
