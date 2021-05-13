@@ -19,5 +19,4 @@
  * log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
  * Binary Confusion Matrix
  
-# Train and Test Construction
-  ##### We build train and test by randomly splitting in the ratio of 70:30 or 80:20 whatever we choose as we have sufficient points to work with.
+
